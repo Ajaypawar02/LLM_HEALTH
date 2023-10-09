@@ -1,0 +1,10 @@
+database_config:
+  host: "localhost"
+  user: "abstract-programmer"
+  password: "example-password"
+  database: "sumeet_health"
+
+model_config:
+  temperature: 0.0
+  model_name: "gpt-4-0613"
+
